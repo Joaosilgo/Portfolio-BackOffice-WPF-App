@@ -5,6 +5,20 @@
 Portfolio backOffice with connection to database for CRUD operations, using Windows Presentation Foundation (WPF), with Material Design In XAML a UI framework that creates desktop client applications.
 
 
+## Usage
+
+![alt text](https://raw.githubusercontent.com/Joaosilgo/Portfolio-BackOffice-WPF-App/master/img/Pic1.PNG "Logo Title Text 1")
+
+![alt text](https://raw.githubusercontent.com/Joaosilgo/Portfolio-BackOffice-WPF-App/master/img/Pic2.PNG "Logo Title Text 1")
+
+![alt text](https://raw.githubusercontent.com/Joaosilgo/Portfolio-BackOffice-WPF-App/master/img/Pic3.PNG "Logo Title Text 1")
+
+![alt text](https://raw.githubusercontent.com/Joaosilgo/Portfolio-BackOffice-WPF-App/master/img/Pic4.PNG "Logo Title Text 1")
+
+
+
+
+
 
 ## Installation
 
@@ -81,10 +95,6 @@ namespace infoSysBackOffice.Classes
     }
 }
 ```
-
-## Usage
-
-![alt text](https://raw.githubusercontent.com/Joaosilgo/Portfolio-BackOffice-WPF-App/master/img/Pic1.PNG "Logo Title Text 1")
 
 ## Contributing
 
